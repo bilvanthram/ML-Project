@@ -1,0 +1,14 @@
+pandas
+numpy
+scipy
+scikit-learn
+pyarrow
+joblib
+matplotlib
+streamlit
+altair
+# optional / legacy
+xgboost        # only for `python train.py --extended`
+seaborn        # legacy notebook EDA (src/eda.py)
+jupyter
+notebook
